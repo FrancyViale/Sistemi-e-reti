@@ -1,3 +1,3 @@
 # Esercizio di ripasso
 
-abbiamo creato due vlan  collegate ad uno switch
+abbiamo collegato ad un router due switch e ad essi due coomputer creando due reti  
